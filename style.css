@@ -1176,7 +1176,7 @@ a:active {
     display: flex;
     padding: 1%;
     justify-content: center;
-    align-items: center;
+    align-items: center;    
 }
 
 ::-webkit-scrollbar {
@@ -1184,11 +1184,11 @@ a:active {
 }
 
 ::-webkit-scrollbar-track {
-    background: transparent;
+    background: #ffc448;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: rgba(136, 136, 136, 0.5);
+    background: #6244c5;
     border-radius: 10px;
 }
 
