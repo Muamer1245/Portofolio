@@ -1,0 +1,33 @@
+@media only screen and (max-width: 748px) {
+    .container3 {
+        height: 85vw;
+    }
+
+    .imge {
+        width: 30%;
+    }
+
+    .mybut {
+        margin-top: 1%;
+    }
+
+    .project1 {
+        display: none;
+    }
+
+    .header {
+        position: fixed;
+    }
+
+    .photo-of-me {
+        display: none;
+    }
+
+    .progress-container {
+        display: none;
+    }
+
+    .blog-container1 {
+        margin-left: 20%;
+    }
+}

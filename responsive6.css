@@ -1,0 +1,124 @@
+@media only screen and (max-width: 375px) {
+    .container2 {
+        height: 180vw;
+    }
+
+    .color {
+        background-color: #6244c5;
+        width: 40%;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 15px;
+        color: #fff;
+        font-size: 15px;
+    }
+
+    .container3 {
+        height: 195vw;
+    }
+
+    .photo-of-me {
+        display: none;
+    }
+
+    .imge {
+        width: 70%;
+    }
+
+    .progress-container {
+        display: none;
+    }
+
+    .text p {
+        font-weight: 300;
+        line-height: 32px;
+        color: hsla(0, 0%, 100%, .7);
+        font-size: 15px;
+    }
+
+    .header-in{
+        width: 120%;
+    }
+
+    .header{
+        width: 64%;
+    }
+    
+    .text h3 {
+        font-size: 40px;
+        color: #fff;
+    }
+
+    .links{
+        display: none;
+    }
+
+    .skills {
+        width: 100%;
+        margin: 5px;
+        height: 25vw;
+        margin-top: 80%;
+    }
+
+    .mybut {
+        width: 40%;
+        height: 10%;
+    }
+
+    .experince {
+        width: 33%;
+        transition: border 0.3s;
+    }
+
+    .projects {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 60%;
+    }
+
+    .services-header {
+        text-align: left;
+        width: 35%;
+        margin-left: 3%;
+        height: 15%;
+        margin-top: 5%;
+    }
+
+    .portofolio-header {
+        text-align: left;
+        width: 66%;
+        margin-left: 2%;
+        height: 15%;
+        color: black;
+        font-weight: 300;
+        font-size: 24px;
+        margin-top: 15px;
+    }
+
+    .container7 h3 {
+        text-align: left;
+        width: 70%;
+        margin-left: 0;
+        height: 15%;
+        color: #fff;
+        font-weight: 600;
+        font-size: 25px;
+    }
+
+    .container8 h3 {
+        text-align: left;
+        width: 62%;
+        margin-left: 18%;
+        height: 15%;
+        color: #fff;
+        font-weight: 600;
+        font-size: 25px;
+    }
+
+    .footer h3 {
+        text-align: center;
+    }
+
+}

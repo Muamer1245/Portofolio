@@ -1,0 +1,36 @@
+@media only screen and (max-width: 412px) {
+    .container2 {
+        height: 165vw;
+    }
+
+    .container3 {
+        height: 170vw;
+    }
+
+    .project3 {
+        display: none;
+    }
+    .hamburger-menu {
+        display: block;
+    }
+    .menu{
+        margin-right: 0;
+        
+    }
+    .links{
+        display: none;
+    }
+    .training, .books, .listeners, .ownproject {
+        background-color: #ffc448;
+        border-radius: 50%;
+        height: 65px;
+        width: 65px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .projects h3{
+        font-size: 25px;
+    }    
+}
+

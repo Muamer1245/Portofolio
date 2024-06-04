@@ -1,0 +1,171 @@
+@media only screen and (max-width: 600px) {
+    .container2 {
+        height: 115vw;
+    }
+
+    .photo-of-me {
+        display: none;
+    }
+
+    .header{
+        width: 65%;
+    }
+
+    .content{
+        margin-top: 26%;
+    }
+
+    .menu {
+        width: 35px;
+        color: #fff;
+        font-size: large;
+        margin-right: 5%;
+    }
+
+    .portofolio-header {
+        text-align: left;
+        width: 42%;
+        margin-left: 2%;
+        height: 15%;
+        color: black;
+        font-weight: 300;
+        font-size: 24px;
+        margin-top: 15px;
+    }
+
+    .container3 {
+        height: 110vw;
+    }
+
+    .text {
+        margin-top: 0;
+        width: 95%;
+    }
+
+    .progress-container {
+        display: none;
+    }
+
+    .desc {
+        width: 95%;
+        margin: 5px;
+        height: 27vw;
+        margin-left: 2%;
+    }
+
+    .mybut {
+        width: 30%;
+        height: 10%;
+    }
+
+    .skills {
+        width: 100%;
+        margin: 5px;
+        height: 25vw;
+        margin-top: 30%;
+    }
+
+    .menu2 {
+        display: flex;
+        width: 100%;
+        justify-content: space-evenly;
+        color: #fff;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .projects {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 45%;
+    }
+
+    .experince {
+        width: 21%;
+    }
+
+    .right {
+        width: 95%;
+    }
+
+    .right2 {
+        width: 95%;
+    }
+
+    .right3 {
+        width: 95%;
+    }
+
+    .right4 {
+        width: 95%;
+    }
+
+    .container8 h3 {
+        text-align: left;
+        width: 30%;
+        margin-left: 18%;
+        height: 15%;
+        color: #fff;
+        font-weight: 600;
+        font-size: 25px;
+    }
+
+    .blog1 {
+        width: 95%;
+    }
+
+    .blog2 {
+        width: 95%;
+    }
+
+    .blog3 {
+        width: 95%;
+    }
+
+    .blog4 {
+        width: 95%;
+    }
+
+    .container8 {
+        padding-right: 25%;
+    }
+
+    .link-photo2 {
+        display: none
+    }
+
+    .links {
+        margin-left: 15%;
+    }
+
+    .button-hello {
+        width: 30%;
+    }
+
+    .footer {
+        padding-left: 14%;
+    }
+
+    .container7 h3 {
+        text-align: left;
+        width: 45%;
+        margin-left: 0;
+        height: 15%;
+        color: #fff;
+        font-weight: 600;
+        font-size: 25px;
+    }
+
+    .container8 h3 {
+        text-align: left;
+        width: 40%;
+        margin-left: 18%;
+        height: 15%;
+        color: #fff;
+        font-weight: 600;
+        font-size: 25px;
+    }
+    .lets-work{
+        width: auto;
+    }
+}
