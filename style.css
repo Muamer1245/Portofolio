@@ -269,7 +269,7 @@ a:active {
 
 .contentarea {
     display: flex;
-    width: 100%;
+    width: 99%;
     margin-top: 5%;
 }
 
@@ -1167,7 +1167,7 @@ a:active {
 
 .hamburger-menu {
     display: none;
-    font-size: 20px;
+    font-size: 30px;
     cursor: pointer;
 }
 
